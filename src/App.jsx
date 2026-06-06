@@ -1,4 +1,4 @@
-export default function ArogyaAILandingPage() {
+export default function MedxaiLandingPage() {
   return (
     <div className="min-h-screen bg-black text-white overflow-hidden relative font-sans">
       {/* Animated Background */}
@@ -16,7 +16,7 @@ export default function ArogyaAILandingPage() {
  <div className="w-full px-3 py-1 flex justify-between items-center h-10">
     {/* Logo */}
     <h1 className="text-sm font-semibold tracking-wide bg-gradient-to-r from-cyan-400 to-purple-500 text-transparent bg-clip-text">
-      ArogyaAI
+      Medx.AI
     </h1>
 
     {/* Nav Links */}
@@ -63,7 +63,7 @@ export default function ArogyaAILandingPage() {
             </h1>
 
             <p className="text-gray-300 text-lg max-w-xl leading-relaxed">
-              ArogyaAI helps users track health, get AI based medical insights,
+              Medx.AI helps users track health, get AI based medical insights,
               manage fitness, and connect with smart healthcare technology.
               One platform. One AI. Complete healthcare ecosystem.
             </p>
@@ -164,7 +164,7 @@ export default function ArogyaAILandingPage() {
               <div className="p-6 space-y-6 relative z-10">
                 <div className="flex justify-between items-center">
                   <div>
-                    <h2 className="text-2xl font-bold">ArogyaAI</h2>
+                    <h2 className="text-2xl font-bold">Medx.AI</h2>
                     <p className="text-gray-400 text-sm">Your Health Assistant</p>
                   </div>
 
@@ -258,7 +258,7 @@ export default function ArogyaAILandingPage() {
               </div>
               <h3 className="text-2xl font-bold mb-4">Mobile App</h3>
               <p className="text-gray-400 leading-relaxed">
-                Download the ArogyaAI app directly from the website.
+                Download the Medx.AI app directly from the website.
               </p>
             </div>
                       <div className="group p-8 rounded-[35px] bg-white/5 border border-pink-500/20 backdrop-blur-2xl hover:-translate-y-3 transition-all duration-1000 hover:shadow-2xl hover:shadow-pink-500/20 relative overflow-hidden">
@@ -339,7 +339,7 @@ export default function ArogyaAILandingPage() {
                 </div>
 
                 <p className="text-gray-300 text-lg leading-relaxed mb-8">
-                  Based on your skin type and AI face scan, ArogyaAI recommends skincare, beauty, wellness, and healthcare products specially tailored for you.
+                  Based on your skin type and AI face scan, Medx.AI recommends skincare, beauty, wellness, and healthcare products specially tailored for you.
                 </p>
 
                 <div className="space-y-4">
@@ -404,7 +404,7 @@ export default function ArogyaAILandingPage() {
             </h2>
 
             <p className="text-gray-300 text-lg leading-relaxed mb-10">
-              ArogyaAI combines artificial intelligence with healthcare innovation to create a futuristic medical ecosystem for everyone.
+              Medx.AI combines artificial intelligence with healthcare innovation to create a futuristic medical ecosystem for everyone.
             </p>
 
             <div className="space-y-5">
@@ -440,7 +440,7 @@ export default function ArogyaAILandingPage() {
       <section id="download" className="relative z-10 py-28 px-6">
         <div className="max-w-full   rounded-[50px] p-12 border border-white/10 bg-gradient-to-r from-cyan-500/10 to-purple-500/10 backdrop-blur-3xl text-center shadow-2xl shadow-cyan-500/20">
           <h2 className="text-5xl font-black mb-6">
-            Download <span className="text-cyan-400">ArogyaAI</span>
+            Download <span className="text-cyan-400">Medx.AI</span>
           </h2>
 
           <p className="text-gray-300 text-lg max-w-2xl   leading-relaxed">
@@ -527,7 +527,7 @@ export default function ArogyaAILandingPage() {
         <div className="max-w-full   px-6 flex flex-col md:flex-row justify-between items-center gap-6">
           <div>
             <h2 className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 text-transparent bg-clip-text">
-              ArogyaAI
+              Medx.AI
             </h2>
             <p className="text-gray-500 mt-2">Next Generation AI Healthcare Platform</p>
           </div>
